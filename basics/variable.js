@@ -7,3 +7,6 @@ accountCity = "jaipur"
 console.log(accountId) //for single variable
 
 console.table([accountEmail,accountId,accountPassword])
+/*perfer not to use var
+because of issue in block scope and functional scope
+*/
